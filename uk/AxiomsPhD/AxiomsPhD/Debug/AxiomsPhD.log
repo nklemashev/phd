@@ -1,0 +1,121 @@
+﻿  tradestat.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+  strata.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(34): warning C4018: '>' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(98): warning C4018: '>' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\strata.cpp(82): warning C4101: 'iPeriod' : unreferenced local variable
+  matrix.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+  main.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(121): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(302): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(306): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(355): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(373): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(380): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(388): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(392): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(407): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(437): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(483): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(521): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(534): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(535): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(541): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(542): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(552): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(553): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(563): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(564): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(566): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(593): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(597): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(607): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(611): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(631): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(639): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(643): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(682): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(687): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(747): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(767): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(773): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(786): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(835): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(849): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(869): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(875): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(888): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1001): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1016): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1036): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1042): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1055): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1136): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1151): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1170): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1181): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1189): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1193): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1110): warning C4101: 'sum' : unreferenced local variable
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1264): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1284): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1295): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1234): warning C4101: 'g' : unreferenced local variable
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1239): warning C4101: 'sum' : unreferenced local variable
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1352): warning C4018: '<' : signed/unsigned mismatch
+  lorenzData.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(10): warning C4101: 'k' : unreferenced local variable
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(57): warning C4101: 'k' : unreferenced local variable
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\lorenzdata.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+  intervals.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\intervals.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+  interval.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+  goods.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\goods.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+  dataload.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(262): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(328): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(364): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(402): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dataload.cpp(478): warning C4018: '<' : signed/unsigned mismatch
+  axioms.cpp
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\dt.hpp(90): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\axioms.cpp(318): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\axioms.cpp(350): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\axioms.cpp(379): warning C4018: '<' : signed/unsigned mismatch
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\axioms.cpp(549): warning C4101: 'diff' : unreferenced local variable
+  Generating Code...
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\intervals.cpp(53): warning C4715: 'dt::intervals::checkCosistency' : not all control paths return a value
+d:\phd\work with bcc2008 data\axiomsphd\axiomsphd\main.cpp(1077): warning C4700: uninitialized local variable 'jiniIndices' used
+  AxiomsPhD.vcxproj -> D:\PhD\Work with BCC2008 data\AxiomsPhD\Debug\AxiomsPhD.exe
